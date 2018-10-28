@@ -1,0 +1,30 @@
+#head{
+
+	
+	position: absolute;
+	left: 260px;
+	top: 450px;
+	width: 250px;
+	height: 80px;
+}
+
+#head:hover{
+
+	background-color: rgba(256,256,256,.5);
+}
+
+
+#womenpage{
+
+	
+	position: absolute;
+	left: 745px;
+	top: 430px;
+	width: 250px;
+	height: 80px;
+}
+
+#womenpage:hover{
+
+	background-color:rgba(256,256,256,.5);
+}
